@@ -1,0 +1,1 @@
+export default "<h2 class=\"name\">name</h2>\n\n<p class=\"phone\">phone</p>\n";
